@@ -4,7 +4,7 @@
 # docker build --rm -t yourimagename .
 # docker run -it -v /home/yourname/any/path:/home/developer yourimagename
 
-FROM ubuntu:13.10
+FROM ubuntu:14.10
 
 MAINTAINER Jani Monoses <jani@ubuntu.com>
 
